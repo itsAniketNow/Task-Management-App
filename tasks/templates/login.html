@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-md-6">
+        <div class="card shadow">
+            <div class="card-body">
+                <h2 class="text-center text-primary">Welcome Back!</h2>
+                <p class="text-center text-muted">Log in to manage your tasks.</p>
+                <form method="POST" action="{% url 'login' 'google-oauth2' %}">
+                    {% csrf_token %}
+                    <button class="btn btn-primary w-100 mt-3">Login with Google</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
