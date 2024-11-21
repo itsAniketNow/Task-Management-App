@@ -126,15 +126,15 @@ python manage.py runserver
 
 Login Page
 
-![Login Page](Images\Screenshot%20(10).png)
+![Login Page](Images\Login_page.png)
 
 
 Task Dashboard
-![My Task](Images\Screenshot%20(6).png)
+![My Task](Images\My_Task.png)
 
 Add/Edit Task
-![Creating_Task](Images\Screenshot%20(8).png)
-![Deleting_Task](Images\Screenshot%20(9).png)
+![Creating_Task](Images\Task_Create.png)
+![Deleting_Task](Images\Delete_page.png)
 
 ---
 
