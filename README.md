@@ -131,12 +131,12 @@ Login Page
 
 Task Dashboard
 
-![My Task](Images\My_Task.png)
+![My Task](Images/My_Task.png)
 
 Add/Edit Task
 
-![Creating_Task](Images\Task_Create.png)
-![Deleting_Task](Images\Delete_page.png)
+![Creating_Task](Images/Task_Create.png)
+![Deleting_Task](Images/Delete_page.png)
 
 ---
 
