@@ -126,7 +126,7 @@ python manage.py runserver
 
 Login Page
 
-![Login Page](Images\Login_page.png)
+![Login Page](Images/Login_page.png)
 
 
 Task Dashboard
